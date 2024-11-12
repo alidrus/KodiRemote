@@ -7,6 +7,7 @@
 #include <ArduinoJson.h>
 
 #include "Movement.h"
+#include "Secrets.h"
 
 void sendMovement(int direction) {
     StaticJsonDocument<200> rpc;
