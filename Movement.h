@@ -33,6 +33,4 @@ void sendMovement(int direction);
 #define MOVEMENT_LEFT 4
 #define MOVEMENT_RIGHT 5
 
-#define JSONRPC_URL "http://alidrus.local:8080/jsonrpc"
-
 #endif // MOVEMENT_H
