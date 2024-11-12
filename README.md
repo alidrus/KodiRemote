@@ -3,7 +3,8 @@
 ![Circuit Pic](images/picture.png "A picture of the circuit")
 
 This sketch uses the touch pins of an ESP32 to make a remote controller for a
-[Kodi](https://kodi.tv) media center.
+[Kodi](https://kodi.tv) media center. As you can see in the picture above, the
+GPIO pins 32, 33, 27, 14, 12 and 13 are connected to a bunch of thumb tacks.
 
 
 ## Requirements
