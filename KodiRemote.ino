@@ -2,7 +2,7 @@
 
 #include <WiFi.h>
 
-#include "WiFiCredentials.h"
+#include "Secrets.h"
 #include "Movement.h"
 
 #define DEBUG_MODE
